@@ -1,0 +1,332 @@
+[
+  {
+    "visit_id": "V-8C2A9C0B",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-C2EC46AD",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-69CF4F6F",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-A353A5F6",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-200A232E",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-16E29A21",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-E46C4EC6",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-D29306AD",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-08AA68D5",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-8E2D11E5",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-618CDC77",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-523D206C",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-E84DFDBF",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-0C216913",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:31",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  },
+  {
+    "visit_id": "V-00C7D2CC",
+    "patient_id": "FC-2DC78F58",
+    "patient_name": "raj",
+    "visited_at": "2026-04-27 12:30",
+    "doctor_name": "Dr. Demo",
+    "hospital_name": "City General Hospital",
+    "symptom": "Chest pain",
+    "diagnosis": "angina",
+    "prescription": [
+      "aspirin"
+    ],
+    "notes": "follow the medication",
+    "follow_up": "after 2 weeks",
+    "bias_check": {
+      "bias_severity": "High",
+      "gender_gap": 12.5,
+      "biased_score": 47.2,
+      "fair_score": 61.6,
+      "explanation": "raj (Female) scores 47.2% for Chest pain, while an identical Male patient would score 59.7% \u2014 a 12.5% gap causing Aspirin 300mg, Cardiac monitor to be skipped. Apply the corrected fair score of 61.6% immediately."
+    }
+  }
+]

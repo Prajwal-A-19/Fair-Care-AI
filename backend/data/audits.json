@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-04-27 13:34",
+    "gap_before": 28.8,
+    "gap_after": 19.7,
+    "bias_severity": "High",
+    "total_records": 32561,
+    "patients_affected": 258,
+    "di_ratio": 0.02
+  },
+  {
+    "date": "2026-04-27 12:32",
+    "gap_before": 28.8,
+    "gap_after": 19.7,
+    "bias_severity": "High",
+    "total_records": 32561,
+    "patients_affected": 258,
+    "di_ratio": 0.02
+  },
+  {
+    "date": "2026-04-26 01:03",
+    "gap_before": 12.4,
+    "gap_after": 0.8,
+    "bias_severity": "Medium",
+    "total_records": 32561,
+    "patients_affected": 111,
+    "di_ratio": 0.313
+  }
+]
